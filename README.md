@@ -8,7 +8,7 @@ The skeleton of the website has also had a touch up allowing the sections to be 
 
 Below is a screen shot of the refactored website:
 
-![The finished refactored website](develop/images/Zight%20Recording%202024-5-28%20at%208.40.22%20PM.gif)
+![The finished refactored website](/Develop/images/Zight%20Recording%202024-5-28%20at%208.40.22%20PM.gif)
 
 Below is the link to the refactored website:
 
